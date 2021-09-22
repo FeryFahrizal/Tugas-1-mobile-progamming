@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">instgram feri</string>
+    <string name="tagpost">1</string>
+    <string name="lblpost">Posts</string>
+    <string name="lblfollowers">Followers</string>
+    <string name="tagfollowers">833</string>
+    <string name="tagnameuser">Fery Fahrizal</string>
+    <string name="tagfollowing">764</string>
+    <string name="lblfollowing">Following</string>
+    <string name="btnfollow">Follow</string>
+    <string name="btnmessage">Message</string>
+</resources>
